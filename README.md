@@ -1,3 +1,3 @@
 # Social Signup
 
-![SocialSignup](https://user-images.githubusercontent.com/113968570/215518062-dd2d1d78-26af-4b46-9c18-8c3bd7899857.jpg)
+![SocialSignup](https://user-images.githubusercontent.com/113968570/215519708-16951251-589b-4693-855d-4bb137af6524.jpg)
